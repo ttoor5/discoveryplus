@@ -1,5 +1,21 @@
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=7374668,AVERAGE-BANDWIDTH=6193337,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2"
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+            "channel_id": "244",
+            "Updated on": "10/07/2023 11:28:23",
+            "channel_name": "Star Bharat HD",
+            "channel_genre": "Entertainment",
+            "channel_ekey": "eyJhbGciOiJIUzIaNiIsInRdcCIfIkpXVCIsImtpZCIfImNvbnRybcxfcclnbmluZajrZXlfcHJvZHVjdGlvblixNjYxMjcdNjMyMDEwIniceezIbeaMHdozChwwVbdiWfUHAwvPHPavYhGPKfzaNDLjg",
+            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",
+            "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd",
+            "key": [
+                "bbbc36a45c7a5ec4878e04c437853b09:0a8dc77ffbaa470131268d7972f66ec6"
+            ],
+            "channel_key": {
+                "keys": [
+                    {
+                        "kty": "oct",
+                        "k": "Co3Hf/uqRwExJo15cvZuxg",
+                        "kid": "u7w2pFx6XsSHjgTEN4U7CQ"
+                    }
+                ],
+                "type": "temporary"
+            }
+        }
